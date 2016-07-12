@@ -1,0 +1,8 @@
+baseurl = "http://example.com/prefix/"
+languageCode = "en-us"
+title = "Hugo link test site"
+canonifyURLs = false
+relativeURLs = true
+
+[blackfriday]
+sourceRelativeLinksEval = true
